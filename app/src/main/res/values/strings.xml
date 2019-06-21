@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Monitor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scanning_m_of_n">扫描中 %1$d/%2$d</string>
+    <string name="software_top_text">已安装%1$s款软件,占有存储空间%2$s</string>
+
+</resources>
